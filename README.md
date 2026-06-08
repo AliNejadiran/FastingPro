@@ -1,3 +1,5 @@
+![Fasting Pro Screenshot](screenshot.png)
+
 # 🔥 Fasting Pro
 
 A modern fasting and fitness tracker built with Python & Tkinter.  
